@@ -1,0 +1,17 @@
+<svg width="720" height="1440" viewBox="0 0 720 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1440" rx="42" fill="#101521"/>
+  <rect x="28" y="28" width="664" height="1384" rx="34" fill="#131B29" stroke="#27354B"/>
+  <text x="64" y="104" fill="#F3F7FF" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Editor / XML Workspace</text>
+  <text x="64" y="150" fill="#A8B8E8" font-size="22" font-family="Segoe UI, Arial, sans-serif">Replace with your real screenshot</text>
+  <rect x="64" y="204" width="592" height="64" rx="18" fill="#1B2436"/>
+  <text x="88" y="246" fill="#86A8FF" font-size="24" font-family="Consolas, Monaco, monospace">&lt;manifest package="com.example.app"&gt;</text>
+  <text x="88" y="314" fill="#B6C4E8" font-size="23" font-family="Consolas, Monaco, monospace">  &lt;application android:label="CEFileManager" /&gt;</text>
+  <text x="88" y="360" fill="#B6C4E8" font-size="23" font-family="Consolas, Monaco, monospace">  &lt;uses-permission android:name="..." /&gt;</text>
+  <text x="88" y="406" fill="#B6C4E8" font-size="23" font-family="Consolas, Monaco, monospace">&lt;/manifest&gt;</text>
+  <rect x="64" y="468" width="592" height="18" rx="9" fill="#293955"/>
+  <rect x="64" y="512" width="412" height="18" rx="9" fill="#293955"/>
+  <rect x="64" y="1024" width="592" height="298" rx="22" fill="#192336" stroke="#33496F"/>
+  <text x="94" y="1090" fill="#E0E8FF" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Best shot to replace here</text>
+  <text x="94" y="1142" fill="#A9B8D8" font-size="22" font-family="Segoe UI, Arial, sans-serif">Show autocomplete, search UI, or XML editing.</text>
+  <text x="94" y="1178" fill="#A9B8D8" font-size="22" font-family="Segoe UI, Arial, sans-serif">Screens with visible structure always market better.</text>
+</svg>

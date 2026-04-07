@@ -1,0 +1,19 @@
+<svg width="720" height="1440" viewBox="0 0 720 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1440" rx="42" fill="#1A140B"/>
+  <rect x="28" y="28" width="664" height="1384" rx="34" fill="#17120B" stroke="#41311A"/>
+  <text x="64" y="104" fill="#FFF5E5" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">APK Tools / Package Lab</text>
+  <text x="64" y="150" fill="#E0B877" font-size="22" font-family="Segoe UI, Arial, sans-serif">Replace with your real screenshot</text>
+  <rect x="64" y="208" width="592" height="74" rx="18" fill="#2B2112"/>
+  <text x="88" y="253" fill="#FFD28A" font-size="24" font-family="Consolas, Monaco, monospace">base.apk</text>
+  <rect x="64" y="334" width="592" height="18" rx="9" fill="#4A371C"/>
+  <rect x="64" y="378" width="548" height="18" rx="9" fill="#4A371C"/>
+  <rect x="64" y="422" width="512" height="18" rx="9" fill="#4A371C"/>
+  <text x="84" y="510" fill="#FFE7BE" font-size="22" font-family="Consolas, Monaco, monospace">AndroidManifest.xml</text>
+  <text x="84" y="554" fill="#FFE7BE" font-size="22" font-family="Consolas, Monaco, monospace">res/values/strings.xml</text>
+  <text x="84" y="598" fill="#FFE7BE" font-size="22" font-family="Consolas, Monaco, monospace">classes.dex</text>
+  <text x="84" y="642" fill="#FFE7BE" font-size="22" font-family="Consolas, Monaco, monospace">lib/arm64-v8a/*.so</text>
+  <rect x="64" y="1018" width="592" height="304" rx="22" fill="#251B0F" stroke="#5B4322"/>
+  <text x="94" y="1084" fill="#FFF1D6" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Best shot to replace here</text>
+  <text x="94" y="1136" fill="#D9C29A" font-size="22" font-family="Segoe UI, Arial, sans-serif">Use a screen showing package tree, save, replace,</text>
+  <text x="94" y="1172" fill="#D9C29A" font-size="22" font-family="Segoe UI, Arial, sans-serif">sign, or export actions for the strongest impact.</text>
+</svg>

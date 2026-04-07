@@ -1,0 +1,18 @@
+<svg width="720" height="1440" viewBox="0 0 720 1440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1440" rx="42" fill="#07161B"/>
+  <rect x="28" y="28" width="664" height="1384" rx="34" fill="#0B1217" stroke="#1C313D"/>
+  <text x="64" y="104" fill="#E8FFF7" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Terminal + AI CLI</text>
+  <text x="64" y="150" fill="#82C8B2" font-size="22" font-family="Segoe UI, Arial, sans-serif">Replace with your real screenshot</text>
+  <rect x="64" y="204" width="592" height="24" rx="12" fill="#17323D"/>
+  <rect x="64" y="254" width="356" height="22" rx="11" fill="#114E64"/>
+  <rect x="64" y="318" width="524" height="18" rx="9" fill="#163640"/>
+  <rect x="64" y="360" width="492" height="18" rx="9" fill="#163640"/>
+  <rect x="64" y="402" width="556" height="18" rx="9" fill="#163640"/>
+  <text x="84" y="272" fill="#8AF0D4" font-size="24" font-family="Consolas, Monaco, monospace">$ claude</text>
+  <text x="84" y="474" fill="#D8F8ED" font-size="22" font-family="Consolas, Monaco, monospace">localhost:/workspace # npm install</text>
+  <text x="84" y="522" fill="#C5E1EF" font-size="22" font-family="Consolas, Monaco, monospace">Mobile shell, session log, long output</text>
+  <rect x="64" y="1094" width="592" height="228" rx="22" fill="#0E2128" stroke="#204453"/>
+  <text x="94" y="1160" fill="#D2F2FF" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Best shot to replace here</text>
+  <text x="94" y="1212" fill="#90B9C8" font-size="22" font-family="Segoe UI, Arial, sans-serif">Use a dense screen with terminal output, model selector,</text>
+  <text x="94" y="1248" fill="#90B9C8" font-size="22" font-family="Segoe UI, Arial, sans-serif">and the actual Codex or Claude connection state visible.</text>
+</svg>
