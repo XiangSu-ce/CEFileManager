@@ -1,10 +1,9 @@
 <div align="center">
   <img src="docs/readme-assets/app-icon.png" alt="CEFileManager Icon" width="120" />
   <h1>CEFileManager</h1>
-  <p><strong>Android file manager, terminal workstation, APK lab, and AI CLI cockpit.</strong></p>
-  <p><strong>文件管理器、移动终端工作站、APK 实验室、AI CLI 驾驶舱，全部集成在一个 Android App 里。</strong></p>
+  <p><strong>Turn Android into a real CLI workstation, APK lab, and power file manager.</strong></p>
+  <p><strong>把 Android 直接变成真正的 CLI 工作站、APK 实验室和高阶文件管理器。</strong></p>
   <p>
-    <code>Android</code>
     <code>CLI on Phone</code>
     <code>Codex / Claude</code>
     <code>APK / XML / DEX / SO</code>
@@ -14,14 +13,14 @@
     <a href="https://daw111.asia/CEFileManager.apk">
       <img src="https://img.shields.io/badge/Download%20APK-%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD-14B88A?style=for-the-badge&logo=android&logoColor=ffffff" alt="Download APK" />
     </a>
+    <a href="#screenshots">
+      <img src="https://img.shields.io/badge/View%20Screenshots-%E5%AE%9E%E6%9C%BA%E6%88%AA%E5%9B%BE-1D4ED8?style=for-the-badge&logo=googlephotos&logoColor=ffffff" alt="View Screenshots" />
+    </a>
     <a href="https://github.com/XiangSu-ce/CEFileManager">
       <img src="https://img.shields.io/badge/GitHub-%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Repository" />
     </a>
-    <a href="https://github.com/XiangSu-ce/CEFileManager/issues">
-      <img src="https://img.shields.io/badge/Issues-%E9%97%AE%E9%A2%98%E5%8F%8D%E9%A6%88-1D4ED8?style=for-the-badge&logo=github&logoColor=ffffff" alt="Issues" />
-    </a>
   </p>
-  <p><strong>Direct Download:</strong> <a href="https://daw111.asia/CEFileManager.apk">https://daw111.asia/CEFileManager.apk</a></p>
+  <p><strong>Download:</strong> <a href="https://daw111.asia/CEFileManager.apk">https://daw111.asia/CEFileManager.apk</a></p>
 </div>
 
 <p align="center">
@@ -29,37 +28,27 @@
 </p>
 
 <p align="center">
-  <strong>Phone in hand. Terminal online. APK open. Files under control.</strong><br />
-  <strong>手机在手，终端在线，APK 可改，文件可控。</strong>
+  <strong>Mobile terminal. AI CLI. APK editing. Deep file access.</strong><br />
+  <strong>移动终端、AI CLI、APK 编辑、深度文件访问，一体化完成。</strong>
 </p>
 
-## CN | 这不是普通文件管理器
+## Why CEFileManager | 为什么是 CEFileManager
 
-**CEFileManager** 面向的是想让手机真正干活的人。
+- Run terminal workflows directly on Android
+- Use `Codex`, `Claude`, and similar CLI flows on phone
+- Open, edit, repack, sign, and export app packages
+- Work across Root, Shizuku, SAF, internal storage, and restricted paths
+- Move between file manager, editor, terminal, and APK tools in one workspace
 
-它把文件管理、终端、AI CLI、APK 编辑、XML 修改、包体处理、受限目录访问等能力放进同一个 Android App，让移动端不再只是“查看”和“复制粘贴”。
+## CN | 核心定位
 
-核心能力：
+**CEFileManager** 不是只会浏览文件的普通管理器。  
+它面向需要在手机上直接完成终端操作、AI CLI 工作流、APK 编辑、XML 修改、包体处理与深度文件访问的用户。
 
-- 手机端直接运行终端工作流
-- 接入 `Codex`、`Claude` 等 AI CLI 使用场景
-- 处理 `APK`、`XML`、`DEX`、`SO`、`HEX`、压缩包等高频对象
-- 支持 Root、Shizuku、SAF、内部存储、受限目录等多路径工作流
-- 在文本编辑器、XML 编辑器、终端、文件浏览、签名与导出之间连续作业
+## EN | Core Positioning
 
-## EN | More than a file manager
-
-**CEFileManager** is built for users who want real work done on Android.
-
-It combines file operations, terminal workflows, AI CLI access, APK editing, XML work, package handling, and restricted-path access in one mobile workspace.
-
-Core capabilities:
-
-- run terminal workflows directly on phone
-- use `Codex`, `Claude`, and similar AI CLI flows on Android
-- work with `APK`, `XML`, `DEX`, `SO`, `HEX`, and archives
-- handle Root, Shizuku, SAF, internal storage, and restricted paths
-- move across editor, terminal, file browser, signing, and export workflows without leaving the app
+**CEFileManager** is more than a file browser.  
+It is built for users who want terminal workflows, AI CLI usage, APK editing, XML work, package handling, and deep file access directly on Android.
 
 <a id="screenshots"></a>
 
@@ -75,26 +64,26 @@ Core capabilities:
   <sub>Quick Connect</sub> · <sub>Claude Code on Phone</sub> · <sub>Codex on Phone</sub>
 </p>
 
-## Feature Highlights | 核心卖点
+## Feature Highlights | 核心能力
 
 | Module | Highlights |
 | --- | --- |
-| Terminal | Mobile shell workflow, long output handling, command execution |
-| AI CLI | Codex / Claude style CLI access inside the app workspace |
-| File Manager | Browse, copy, move, replace, compare, preview, and batch process files |
-| Editors | Text editing, XML editing, structured search, syntax highlighting |
-| APK Lab | Open package internals, edit contents, repack, sign, and export |
-| Binary Tools | Hex viewing, hash checks, archive handling, reverse-oriented utilities |
+| Terminal | Shell workflow, long output handling, command execution |
+| AI CLI | Codex / Claude style CLI access inside the mobile workspace |
+| File Manager | Browse, copy, move, replace, compare, preview, and batch operations |
+| Editors | Text editing, XML editing, search, and syntax highlighting |
+| APK Lab | Open internals, edit package contents, repack, sign, and export |
+| Binary Tools | Hex viewing, hash checks, archive handling, and reverse utilities |
 | Access Layers | Root, Shizuku, SAF, internal storage, and restricted-path workflows |
 
-## Use Cases | 使用场景
+## Built For | 适合场景
 
-- Android 高级文件管理
-- 手机端 AI CLI 工作流
-- APK 修改、重打包、签名、导出
-- XML / 文本 / 二进制内容查看与编辑
-- Root / Shizuku 环境下的深度文件操作
-- 外出时只带手机继续工作
+- Advanced Android file management
+- Mobile AI CLI workflows
+- APK modification, repacking, signing, and export
+- XML, text, and binary viewing or editing
+- Root / Shizuku based deep file operations
+- Real work on the go with only a phone
 
 ## Download | 下载
 
@@ -102,7 +91,7 @@ Core capabilities:
 - Repository: [https://github.com/XiangSu-ce/CEFileManager](https://github.com/XiangSu-ce/CEFileManager)
 - Issues: [https://github.com/XiangSu-ce/CEFileManager/issues](https://github.com/XiangSu-ce/CEFileManager/issues)
 
-## Short Copy | 简短宣传语
+## One-Line Pitch | 一句话宣传
 
 `Turn Android into a real mobile engineering workstation.`
 
