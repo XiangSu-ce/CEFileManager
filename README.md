@@ -19,6 +19,9 @@
     <a href="https://github.com/XiangSu-ce/CEFileManager">
       <img src="https://img.shields.io/badge/GitHub-%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Repository" />
     </a>
+    <a href="https://qm.qq.com/q/7wjFGXwBXy">
+      <img src="https://img.shields.io/badge/QQ%20Group-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-EB1923?style=for-the-badge&logo=tencentqq&logoColor=ffffff" alt="QQ Group" />
+    </a>
   </p>
   <p><strong>Download:</strong> <a href="https://daw111.asia/CEFileManager.apk">https://daw111.asia/CEFileManager.apk</a></p>
 </div>
@@ -90,6 +93,7 @@ It is built for users who want terminal workflows, AI CLI usage, APK editing, XM
 - APK: [https://daw111.asia/CEFileManager.apk](https://daw111.asia/CEFileManager.apk)
 - Repository: [https://github.com/XiangSu-ce/CEFileManager](https://github.com/XiangSu-ce/CEFileManager)
 - Issues: [https://github.com/XiangSu-ce/CEFileManager/issues](https://github.com/XiangSu-ce/CEFileManager/issues)
+- QQ Group: [https://qm.qq.com/q/7wjFGXwBXy](https://qm.qq.com/q/7wjFGXwBXy)
 
 ## One-Line Pitch | 一句话宣传
 
